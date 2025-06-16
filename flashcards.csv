@@ -1,0 +1,16 @@
+topic,question,answer,difficulty
+Introduction to Big Data,What is digital data?,"Any information stored or processed using computers. Examples include photos, messages, videos, and search results.",Easy
+Introduction to Big Data,Name three main types of digital data.,"Structured, unstructured, and semi-structured data.",Easy
+Introduction to Big Data,Give an example of structured data.,"A table of student records (Name, Roll No., Marks).",Easy
+Introduction to Big Data,Give an example of unstructured data.,A selfie or photo.,Easy
+Introduction to Big Data,Give an example of semi-structured data.,"A JSON file: {""name"": ""Arman"", ""age"": 20}",Medium
+Big Data Platform,What is a Big Data platform?,"A toolset to store, process, and analyze big data; handles huge volumes of data; works with structured, unstructured, and semi-structured data; enables fast data processing and insightful findings.",Medium
+Drivers for Big Data,List five drivers for the growth of Big Data.,"Social media, mobile apps, IoT devices, online shopping, and cloud storage (others include cheap storage devices and AI & analytics).",Medium
+Big Data Architecture,Describe the flow of data in a typical Big Data architecture.,Data Sources → Storage/Real-time → Processing → Analytics → Results,Medium
+5Vs of Big Data,List and briefly explain the five Vs of Big Data.,"Volume (huge amount of data), Velocity (speed of data), Variety (different types of data), Veracity (correctness of data), Value (usefulness of data).",Medium
+Big Data Technology Components,Name three key components of Big Data technology and give an example for each.,"Data Storage (e.g., HDFS), Data Processing (e.g., Hadoop MapReduce), Data Analysis (e.g., Apache Hive).",Medium
+Big Data Applications,Give three examples of how Big Data is used in different industries.,"E-commerce (product recommendations), Healthcare (disease tracking), Banking (fraud detection).",Easy
+Big Data Security,List three steps to secure Big Data.,"Secure data sources, encrypt data, and implement access control.",Easy
+Big Data Analytics,What is Big Data analytics?,"Analyzing large and complex data to find useful patterns, trends, and insights.",Easy
+Conventional Systems vs. Big Data,What is a major challenge of conventional systems when dealing with Big Data?,Limited storage capacity.,Easy
+Intelligent Data Analysis,What is intelligent data analysis (IDA)?,Using smart methods like machine learning and AI to understand data and find hidden patterns automatically.,Medium
